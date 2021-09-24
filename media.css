@@ -1,0 +1,78 @@
+@media(min-width:320px) and (max-width:400px){
+        .Heading_text h1{
+            font-size: 16px;
+        }
+        .id_section h1{
+            font-size: 16px;
+        }
+        .social_part h1{
+            font-size: 16px;
+        }
+        .menu_row nav ul li a{
+            font-size: 9px;
+        }
+        .home_icon i{
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        .message_icon i{
+            margin-top: 10px;
+            margin-right: 5px;
+            font-size: 20px;
+        }
+        .profile_icon i{
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        .nav_item ul{
+            margin-right: 8px;
+        }
+}
+@media(min-width:401px) and (max-width:575px){
+    .menu_row nav ul li a{
+        font-size: 17px;
+    }
+    .home_icon i{
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    .message_icon i{
+        margin-top: 10px;
+        margin-right: 5px;
+        font-size: 20px;
+    }
+    .profile_icon i{
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    .nav_item ul{
+        margin-right: 8px;
+    }
+    .Heading_text h1{
+        font-size: 19px;
+    }
+    .id_section h1{
+        font-size: 19px;
+    }
+    .social_part h1{
+        font-size: 17px;
+    }
+}
+@media(min-width:320px) and (max-width:575px){
+    .location_form span{
+        margin-right: 10px;
+    }
+    .location_form h5{
+        margin-right: 5px;
+    }
+}
+@media(min-width:320px) and (max-width:767px){
+    .about_form .gender{
+        width: 95%;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .about_form .gender{
+        width:31%;
+    }
+}
