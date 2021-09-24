@@ -5,7 +5,7 @@
 }
                                                  /* Start of menu part */
 .bg_color{
-    background-color: #4472C4;
+    background-color: #bd5bdb;
 }
 .menu_row{
     min-height: 10vh;
@@ -28,9 +28,13 @@
     padding: 5px 15px;
 }
 .nav_item ul li a{
-    color: white;
+    color: rgb(197, 222, 230);
     text-decoration: none;
     font-family: 'Playfair Display', serif; 
+}
+.nav_item ul li a:hover{
+  background: #37f;
+  font-weight: bold;  
 }
 .menu_btn{
     color: white;
