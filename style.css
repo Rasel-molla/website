@@ -11,6 +11,7 @@
     min-height: 10vh;
     align-items: center;
 }
+
 .nav_item{
     display: flex;
     justify-content: space-around;
@@ -18,24 +19,45 @@
 .nav_item ul{
     display: flex;
     justify-content: space-between;
-    margin: 0;
-    padding: 0;
-    margin-right: 15px;
-    text-align: center;
+
+
 }
-.nav_item ul li{
+
+.nav{
+    background: rgb(126, 35, 134); 
+    /* border-bottom:10px solid #37f; */
+     box-shadow: 3px 0px 5px gray;
+    text-align: center;
+    /* padding: 5px;
+height: 10vh; */
+
+}
+.nav_item ul li{ 
     list-style-type: none;
-    padding: 5px 15px;
+     padding: 10px 20px; 
+ display: inline-block;
+list-style-type: none;
+padding: 5px 20px;
+color: white;
+font-family: sans-serif;
+transform: .5s;
+
+color: white;
+}
+.nav_item ul  :hover{
+    background: #37f;
+    font-weight: bold;
+    border-radius: 5px;
 }
 .nav_item ul li a{
     color: rgb(197, 222, 230);
     text-decoration: none;
     font-family: 'Playfair Display', serif; 
-}
-.nav_item ul li a:hover{
-  background: #37f;
+} 
+.nav_item ul  :hover{
+  background: rgb(32, 88, 201);
   font-weight: bold;  
-}
+} 
 .menu_btn{
     color: white;
     border: 1px solid black;
@@ -49,7 +71,7 @@
     color: white;
     font-size: 30px;
 } 
-                              /* End of menu part */
+                              End of menu part */
 
                               /* Start of এক্সেসরিজ part */
 .Heading_text h1{
