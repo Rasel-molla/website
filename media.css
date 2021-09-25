@@ -9,23 +9,29 @@
             font-size: 16px;
         }
         .menu_row nav ul li a{
-            font-size: 9px;
+            font-size: 12px;
         }
         .home_icon i{
             margin-top: 10px;
-            font-size: 20px;
+            font-size: 15px;
         }
         .message_icon i{
-            margin-top: 10px;
-            margin-right: 5px;
+            /* margin-top: 10px; */
+            /* margin-right: 5px; */
             font-size: 20px;
         }
         .profile_icon i{
             margin-top: 10px;
-            font-size: 20px;
+            font-size: 15px;
         }
         .nav_item ul{
-            margin-right: 8px;
+            /* margin-right: 8px; */
+        }
+        .heding {
+           margin-left: 120px;
+        }
+        .nav{
+            height: 40px;
         }
 }
 @media(min-width:401px) and (max-width:575px){
@@ -37,7 +43,7 @@
         font-size: 20px;
     }
     .message_icon i{
-        margin-top: 10px;
+        /* margin-top: 10px; */
         margin-right: 5px;
         font-size: 20px;
     }
@@ -46,10 +52,10 @@
         font-size: 20px;
     }
     .nav_item ul{
-        margin-right: 8px;
+        /* margin-right: 8px; */
     }
     .Heading_text h1{
-        font-size: 19px;
+        /* font-size: 19px; */
     }
     .id_section h1{
         font-size: 19px;
@@ -74,5 +80,8 @@
 @media(min-width:768px) and (max-width:991px){
     .about_form .gender{
         width:31%;
+        
+
     }
+
 }

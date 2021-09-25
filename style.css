@@ -3,12 +3,39 @@
     margin: 0;
     padding: 0;
 }
-                                                 /* Start of menu part */
+.font-color{
+    color:rgb(81, 223, 15);
+    /* background-color: rgb(22, 124, 150); */
+
+}
+.id-name{
+    background-color: teal;
+    width: 300px;
+ margin: 5px;
+    display: inline-block;
+    height: 42px;
+    border-radius: 5px;
+   padding: 2px;
+}
+.heding{
+background-color: teal;
+text-align: center;
+width: 90px;
+height: 20px;
+font-size: 15px;
+border-radius: 5px;
+margin-left: 500px;
+}  
+.textt{
+font-size: 12px;
+    color: rgb(25, 25, 65);
+ }                        /* Start of menu part */
 .bg_color{
-    background-color: #bd5bdb;
+    background-color: #880cad;
 }
 .menu_row{
-    min-height: 10vh;
+    /* min-height: 10vh; */
+    height: 40px;
     align-items: center;
 }
 
@@ -24,40 +51,41 @@
 }
 
 .nav{
-    background: rgb(126, 35, 134); 
+    /* background: rgb(126, 35, 134);  */
     /* border-bottom:10px solid #37f; */
-     box-shadow: 3px 0px 5px gray;
-    text-align: center;
-    /* padding: 5px;
-height: 10vh; */
+    /* text-align: center;
+    padding: 5px;
+height: 400px;
+font-size: 20px; */
 
 }
 .nav_item ul li{ 
     list-style-type: none;
-     padding: 10px 20px; 
+     padding:5px 16px; 
  display: inline-block;
 list-style-type: none;
-padding: 5px 20px;
+/* padding: 5px 20px; */
 color: white;
 font-family: sans-serif;
 transform: .5s;
 
-color: white;
 }
 .nav_item ul  :hover{
     background: #37f;
     font-weight: bold;
     border-radius: 5px;
+    transform: .5s;
+    margin-top: 4px;
 }
 .nav_item ul li a{
     color: rgb(197, 222, 230);
     text-decoration: none;
     font-family: 'Playfair Display', serif; 
 } 
-.nav_item ul  :hover{
+/* .nav_item ul  :hover{
   background: rgb(32, 88, 201);
   font-weight: bold;  
-} 
+}  */
 .menu_btn{
     color: white;
     border: 1px solid black;
@@ -65,14 +93,24 @@ color: white;
 }
 .home_icon i, .profile_icon i{
     color: white;
-    font-size: 30px;
+    margin-top: 10px;
+    font-size: 20px;
 }
 .message_icon i{
     color: white;
     font-size: 30px;
 } 
-                              End of menu part */
+                         /*     End of menu part */
 
+.button-click{
+    /* width: 800px; */
+    /* display: inline-block; */
+    /* margin: 5px; */
+    /* padding: 20px; */
+
+}
+        
+            
                               /* Start of এক্সেসরিজ part */
 .Heading_text h1{
     font-size: 22px;
@@ -125,7 +163,8 @@ color: white;
                                     /* end of social section part */
 
 
-                            /* form part start */
+                
+         /* form part start */
 
 .form_row{
     min-height: 80vh;
