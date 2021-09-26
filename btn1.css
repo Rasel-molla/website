@@ -4,5 +4,64 @@
 }
 
 form {
-    margin: 20px;
+margin: 10px;
+    padding: 10px;    
+}
+label{
+    margin: 10px;
+
+width: 100px;
+}
+.location_form{
+    display: inline-block;
+    margin-left: 60px;
+}
+.location_tag{
+    display: inline-block;
+    margin-right:80px;
+
+}
+.location_tab{
+    margin-left: 90px;
+    display: inline-block;
+
+}
+.input{
+    width: 95px;
+    display: inline-block;
+margin-left: 5px;
+}
+.H-name{
+    text-align: center;
+    display: inline-block;
+    width: 80px;
+    background-color: rgb(154, 187, 197);
+    font-size: 15px;
+    border-bottom: lightseagreen;
+
+}
+.section{
+ text-align: center;
+}
+.from-title{
+    background-color: rgb(104, 211, 233);
+    color: rgb(54, 70, 30);
+
+    text-align: center;
+ 
+}
+.from-title h6{
+    font-size: 20px;
+}
+.from-class{
+
+background-color: rgb(161, 136, 185);
+
+}
+.all-from{
+    background-color: rgb(150, 95, 189);
+    text-align: center;
+}
+.add-proudact{
+    width: 300px;
 }

@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:#9FE2BF;
+    ;
+}
+.page-bar{
+    margin-top: 20px;
+ 
+}
+.title{
+    background-color:#6b8ecf;
+text-align: center;
+color: rgb(250, 249, 249);
+}
+.m-name{
+display: inline-block;
+width: 80px;
+}
+.l-name{
+    display: inline-block;
+    width: 60px;
+    }
+.table-design{
+
+    margin: px;
+    padding: 10px;
+}
+.from-all{
+    
+    background-color: rgb(28, 196, 187);
+
+text-align: center;
+}
+.h-name{
+    margin: 10px;
+    padding: 10px;
+    background-color: #0DCAF0;
+    width: 100px;
+    text-align: center;
+    height: 20px ;
+    width: 145px;
+    display: inline-block;
+    border-radius: 4px;
+}
+.location_form{
+    display: inline-block
+
+}
+.item{
+    margin-top: 30px;
+  
+}
+.n-name{
+    height: 25px;
+    margin: 10px;
+    width: 230px;
+}
+.input-t{
+    width: 110px;
+     height: 25px;
+     
+
+}
+.allign{
+ 
+}
+.dot{
+width: 130px;
+display: inline-block;
+}
+.dot-item{
+margin-right: 110px;
+
+}
+.dom{
+    margin-left: 5px;
+}

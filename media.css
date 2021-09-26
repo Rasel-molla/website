@@ -2,6 +2,10 @@
         .Heading_text h1{
             font-size: 16px;
         }
+    
+        .from-title h6{
+            font-size: 20px;
+        }
         .id_section h1{
             font-size: 16px;
         }
@@ -24,15 +28,44 @@
             margin-top: 10px;
             font-size: 15px;
         }
-        .nav_item ul{
-            /* margin-right: 8px; */
-        }
+      
         .heding {
            margin-left: 120px;
         }
         .nav{
             height: 40px;
         }
+      .input{
+    width: 95px;
+    display: inline-block;
+margin-left: 5px;
+}
+.H-name{
+    text-align: center;
+    display: inline-block;
+    width: 80px;
+    background-color: rgb(154, 187, 197);
+    font-size: 15px;
+}
+.inpub{
+    width: 130px;
+}
+.h-name{
+    width: 90px;
+border-radius: 5px;
+height: 30px;
+}
+.table-design{
+    width: 50px;
+    
+}
+.n-name{
+        height: 25px;
+        margin: 10px;
+        width: 278px;
+    }
+
+
 }
 @media(min-width:401px) and (max-width:575px){
     .menu_row nav ul li a{
@@ -83,5 +116,7 @@
         
 
     }
+.from-title{
 
+}
 }

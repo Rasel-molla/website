@@ -8,6 +8,27 @@
     /* background-color: rgb(22, 124, 150); */
 
 }
+/* login apge */
+.full-from{
+
+    background-color:	#FFD700;
+    border-radius: 20px;
+}
+.page-bg{
+background-color: yellowgreen;
+    
+}
+.title-heading{
+    background-color: rgb(27, 135, 223);
+ color: white; 
+ width: 345px;
+ height: 30px;
+ text-align: center;
+ margin: 1px;
+ border-radius: 5px;
+ margin-top: 40px;
+
+}
 .id-name{
     background-color: teal;
     width: 300px;
@@ -50,15 +71,7 @@ font-size: 12px;
 
 }
 
-.nav{
-    /* background: rgb(126, 35, 134);  */
-    /* border-bottom:10px solid #37f; */
-    /* text-align: center;
-    padding: 5px;
-height: 400px;
-font-size: 20px; */
 
-}
 .nav_item ul li{ 
     list-style-type: none;
      padding:5px 16px; 
@@ -102,14 +115,7 @@ transform: .5s;
 } 
                          /*     End of menu part */
 
-.button-click{
-    /* width: 800px; */
-    /* display: inline-block; */
-    /* margin: 5px; */
-    /* padding: 20px; */
-
-}
-        
+   
             
                               /* Start of এক্সেসরিজ part */
 .Heading_text h1{
