@@ -5,13 +5,13 @@
 }
 
 .page-bar{
-    border-radius: 10px;
     background-color: cyan;
 }
 .title{
     background-color:#6b8ecf;
 text-align: center;
 color: rgb(250, 249, 249);
+
 }
 .m-name{
 display: inline-block;
@@ -21,22 +21,19 @@ width: 80px;
     display: inline-block;
     width: 60px;
     }
-.table-design{
-  text-align: center;
-margin-top: 20px;
-}
+
 .footer {
     font-size: 12px;
     padding: 15px;
 
   }
-.table-box{
-}
+
 
 .from-all{
     
     background-color: rgb(28, 196, 187);
      text-align: center;
+     
 
 }
 .tow{
@@ -90,4 +87,15 @@ text-align: center;
 }
 .footer{
     background-color: rgb(120, 193, 206);
+}
+.tab{
+    display: inline-block;
+    border: 1px solid rgb(204, 162, 162);
+    font-size: 27px;
+    margin: 5px;
+}
+.tab-input{
+    margin: 5px;
+    display: inline-block;
+    width: 175px;
 }
