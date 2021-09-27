@@ -1,12 +1,12 @@
 *{
-    margin: 0px;
+ margin: 0px;
     padding: 0px;
-    background-color:#9FE2BF;
-    ;
+    background-color: cyan;
 }
+
 .page-bar{
-    margin-top: 20px;
- 
+    border-radius: 10px;
+    background-color: cyan;
 }
 .title{
     background-color:#6b8ecf;
@@ -22,30 +22,39 @@ width: 80px;
     width: 60px;
     }
 .table-design{
-
-    margin: px;
-    padding: 10px;
+  text-align: center;
+margin-top: 20px;
 }
+.footer {
+    font-size: 12px;
+    padding: 15px;
+
+  }
+.table-box{
+}
+
 .from-all{
     
     background-color: rgb(28, 196, 187);
+     text-align: center;
 
-text-align: center;
+}
+.tow{
+    text-align: center;
 }
 .h-name{
     margin: 10px;
     padding: 10px;
     background-color: #0DCAF0;
-    width: 100px;
+    width: 10px;
     text-align: center;
     height: 20px ;
-    width: 145px;
     display: inline-block;
     border-radius: 4px;
 }
 .location_form{
-    display: inline-block
-
+ width: 400px;   
+ text-align: center;
 }
 .item{
     margin-top: 30px;
@@ -54,15 +63,16 @@ text-align: center;
 .n-name{
     height: 25px;
     margin: 10px;
-    width: 230px;
+    width: 210px;
 }
 .input-t{
-    width: 110px;
+    width: 90px;
      height: 25px;
-     
+     text-align: center;
 
 }
 .allign{
+    text-align: center;
  
 }
 .dot{
@@ -75,4 +85,9 @@ margin-right: 110px;
 }
 .dom{
     margin-left: 5px;
+}.p-name{
+text-align: center;
+}
+.footer{
+    background-color: rgb(120, 193, 206);
 }
