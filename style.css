@@ -14,16 +14,16 @@
 /* login apge */
 .full-from{
 
-    background-color:	#FFD700;
+    background-color:	#e7e5db;
     border-radius: 20px;
 }
 .page-bg{
-background-color: yellowgreen;
+background-color: rgb(224, 228, 216);
     
 }
 .title-heading{
-    background-color: rgb(27, 135, 223);
- color: white; 
+    background-color: rgb(235, 240, 243);
+ color: rgb(24, 19, 19); 
  width: 345px;
  height: 30px;
  text-align: center;
